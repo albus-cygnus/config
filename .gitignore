@@ -1,0 +1,17 @@
+*
+!.gitignore
+!.profile
+!.bashrc
+!.bash_profile
+!.Xresources
+!.i3/
+!.i3/*
+!.config/
+!.config/ranger/
+!.config/ranger/*
+!.config/wallpapers/
+!.config/wallpapers/*
+!.config/kitty/
+!.config/kitty/*
+!.config/nvim/
+!.config/nvim/*

@@ -135,7 +135,3 @@ ex ()
     echo "'$1' is not a valid file"
   fi
 }
-
-# There is an old problem where the kitty terminal assigns $TERM to 
-# "xterm-kitty". Solutions from the internet didn't help me.
-alias xterm-kitty="kitty"
